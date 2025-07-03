@@ -29,6 +29,7 @@ The data consists of 7 main tables:
   - Premium: ~17 users active for 5 days on average  
   - Standard: ~21 users active for 5 days  
   - Basic: ~11 users active for 5 days  
+  -📖 [Click here to read the full storytelling insights](storytelling.md)
 
 - **Top Movies**: Most watched movies were identified by plan type.  
 - **Genre Preferences**: Comedy, Action, and Drama were the most preferred genres.  
@@ -55,6 +56,7 @@ netflix_sql_analysis/
 ├── ERD.png # Entity Relationship Diagram
 ├── storytelling.md # Insights and summary
 └── README.md # Project overview
+├── storytelling.md # Insights and summary
 
 ## 📬 Contact
 For questions or feedback, feel free to open an issue or reach out.
